@@ -1,0 +1,99 @@
+.jabril{color: red}
+.nav-link{
+    text-decoration: none
+}
+
+header{
+  width: 100%;
+  height: 100vh;
+}
+.nav-bar{
+    background-color: none
+    ;
+  }
+html{
+  font-size: 10px;
+  font-family: 'Roboto', sans-serif;
+  color: black;
+}
+body{
+  width: 100%;
+  height: 100%;
+  background: url("images/sitebg.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+.container{
+    color:black
+}
+p {
+    text-align: center;
+    
+  }
+img  {
+    
+    width: 100%;
+  }
+  .nav-bar{
+      float: right;
+  }
+  .clearfix {
+    overflow: auto;
+  }
+  a{
+   float: top;
+   text-decoration: none;
+   color:;
+   font-weight: 300;
+  }
+  p{
+    font-size: 1.8rem;
+    font-weight: 300;
+  }
+      
+  .float-right{
+      float: right;
+  }
+  .style{
+    background-image: url('img_girl.jpg');
+    text-decoration: white;
+    color:  #eee 
+  }
+
+  #phone{ background-attachment: fixed;
+
+  }
+  .nav-bar:hover,
+  .nav-bar:focus{
+    background: linear-gradient( to top, #ffe838,)
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+  }
+  .jumbotron{
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    background-color: ;
+    border-bottom-right-radius: 100%;
+    border-bottom-left-radius: 100%;
+    transition: all 650ms cubic-bezier(1,0,0,1);
+
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+   
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa:hover {
+    opacity: 0.7;
